@@ -1,18 +1,16 @@
-## Getting Started
+# Exercício proposto no curso de Java Básico da plataforma DIO
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+>Sobre: Classes, Métodos e Objetos.
 
-## Folder Structure
+- Este foi um exercício proposto pelo curso de Java Basico da plataforma DIO onde criamos uma classe e seus métodos e depois criamos um objeto onde manipularemos os atributos dentro desta classe e executaremos seus métodos, como calcular o valor para encher o tanque de seu veículo.
 
-The workspace contains two folders by default, where:
+## O que foi utilizado:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+- VSCode
+- Java
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## Contato:
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+aronf.ramalho@gmail.com
 
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+https://www.linkedin.com/in/aronferreiraramalho/
